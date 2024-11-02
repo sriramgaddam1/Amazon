@@ -4,4 +4,3 @@ import { renderPaymentSummary } from './checkout/paymentSummary.js';
 
 renderorderSummary();
 renderPaymentSummary();
-
